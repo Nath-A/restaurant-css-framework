@@ -1,3 +1,5 @@
+/* -------------------------GENERAL----------------------- */
+/* -------------------------HEADER----------------------- */
 header 
 {
    position:relative;
@@ -19,12 +21,12 @@ header .texte
     left: 50%;
     top: 50%;
     transform: translate(-50%, -50%); */
-    /* margin:auto 0; */
+    margin: 0 auto;
     text-align: center;
     color: #ffffff;
     text-shadow:2px 2px 2px black ;
-    
-
+    padding:15px;
+    max-width:1200px;
 }
 
 header h1
@@ -37,5 +39,54 @@ header h2
 {
     /* margin-top: 50px;
     margin-bottom: 0px; */
-    font-size: 1.7em;
-} */
+    font-size: 1.3em;
+} 
+
+header .btn a
+{
+    text-decoration: none !important;
+    color: #ffffff !important;
+}
+/* -------------------------CONTENU PRINCIPAL----------------------- */
+
+main.row
+{
+    /* margin-top: 50px; */
+}
+aside.col-12, section.col-12
+{
+    margin-top: 50px;
+}
+aside 
+{
+    text-align: center;
+}
+
+section
+{
+    text-align: justify;
+}
+section h2
+{
+    text-align: center;
+}
+
+/* -------------------------FOOTER----------------------- */
+
+footer p, footer ul
+{
+    text-align: center;
+}
+footer a
+{
+    color:rgb(61, 61, 61);
+    font-weight:500;
+    text-decoration: none;
+    font-weight: bold;
+
+}
+
+footer a:hover
+{
+    color: black;
+}

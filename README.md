@@ -27,4 +27,14 @@ Avec :
 - [x] Ecrire ce fichier readme brut de décoffrage
 - [x] Chercher des designs de site web réalisables "facilement" avec Bootstrap (Beuheuheuh :cry: )
 - [x] Créer les fichiers html, css de base et les dossiers
-- [ ] Faire des wireframes et layouts papier 
+- [x] Faire des wireframes et layouts papier
+- [ ] Créer un fichier html de structure pour le contenu et les choses qui vont être copiées collées sur chaque page et ne rien comprendre aux 758 class de bootstrap :sleepy: :rage:
+
+## Processus "créatif"
+### Wireframes
+![Wireframe 1](references/wireframes01.jpg)
+![Wireframe 2](references/wireframes02.jpg)
+![Wireframe 3](references/wireframes03.jpg)
+
+
+ 

@@ -72,6 +72,24 @@ section
 
 /* -------------------------MENU----------------------- */
 
+/* -------------------------A PROPOS----------------------- */
+img.ma-tete
+{
+    display: block;
+    margin:0 auto;
+}
+
+#a-propos p
+{
+    text-align: justify;
+}
+
+#a-propos iframe
+{
+
+    width: 100%;
+    height: 25rem;
+}
 /* -------------------------FOOTER----------------------- */
 
 footer p, footer ul

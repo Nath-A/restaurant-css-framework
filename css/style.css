@@ -1,13 +1,16 @@
 /* -------------------------GENERAL----------------------- */
 /* -------------------------NAV----------------------- */
-
+.navbar a
+{
+    font-weight: 500;
+}
 /* -------------------------HEADER----------------------- */
 header 
 {
    position:relative;
    background-image: url("https://placekitten.com/1920/900");
    height: 50vh;
-   background-position: center;
+   background-position:center top;
 }
 
 header img
@@ -51,10 +54,7 @@ header .btn a
 }
 /* -------------------------CONTENU PRINCIPAL----------------------- */
 
-main.row
-{
-    /* margin-top: 50px; */
-}
+
 aside.col-12, section.col-12
 {
     margin-top: 50px;
@@ -68,10 +68,9 @@ section
 {
     text-align: justify;
 }
-section h2
-{
-    text-align: center;
-}
+
+
+/* -------------------------MENU----------------------- */
 
 /* -------------------------FOOTER----------------------- */
 

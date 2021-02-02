@@ -40,7 +40,7 @@ Avec :
 ![Wireframe 2](references/wireframes02.jpg)
 ![Wireframe 3](references/wireframes03.jpg)
 
-[![Rien respecté](references/rien-respecte.jpg)](https://www.youtube.com/watch?v=4GiMLIjbq5Q)]
+[![Rien respecté](references/rien-respecte.jpg)](https://www.youtube.com/watch?v=4GiMLIjbq5Q)
 
 
  

@@ -36,9 +36,7 @@ Avec :
 - [ ] Me servir la bière offerte par Hello Fresh cette semaine pour célébrer le fait d'avoir fini le projet 
 ## Processus "créatif"
 ### Wireframes
-![Wireframe 1](references/wireframes01.jpg)
-![Wireframe 2](references/wireframes02.jpg)
-![Wireframe 3](references/wireframes03.jpg)
+![Wireframes](references/wireframes.jpg)
 
 [![Rien respecté](references/rien-respecte.jpg)](https://www.youtube.com/watch?v=4GiMLIjbq5Q)
 

@@ -31,7 +31,7 @@ Avec :
 - [x] Créer un fichier html de structure pour le contenu et les choses qui vont être copiées collées sur chaque page et ne rien comprendre aux 758 class de bootstrap :sleepy: :rage:
 - [ ] Vérifier que le design global est cohérent
 - [ ] Copier coller les éléments de la structure dans les bonnes pages
-- [ ] Vérifier que tous les liens sont fonctionnels
+- [ ] Vérifier que tous les liens sont fonctionnels **et mettre les active sur le menu principal** 
 - [ ] Faire un peu de CSS pour rendre le design moins eco+ (*phase de polish, si on a le temps*)
 - [ ] Me servir la bière offerte par Hello Fresh cette semaine pour célébrer le fait d'avoir fini le projet 
 ## Processus "créatif"

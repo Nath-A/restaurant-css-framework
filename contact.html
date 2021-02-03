@@ -4,10 +4,107 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Au Joyeux Bordel de Nath * Contact</title>
-    <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="css/style.css">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW" crossorigin="anonymous">
+    </script>
+    <script src="https://kit.fontawesome.com/05be3ed2ff.js" crossorigin="anonymous"></script>
 </head>
 <body>
-    
+    <!-- MENU -->
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="index.html">
+                <img src="https://placekitten.com/50/50" alt="" width="50" height="50" class="d-inline-block align-middle">
+                <span class="align-middle">Au Joyeux Bordel de Nath</span>
+            </a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse align-middle" id="navbarNav">
+                <ul class="navbar-nav align-middle ms-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" aria-current="page" href="index.html">Accueil</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="menu.html">Menu</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="photos-p1.html">Photos</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="a-propos.html">A propos</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link active" href="contact.html">Contact</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <!-- HEADER -->
+    <header class="d-flex">
+        <div class="texte d-flex flex-column justify-content-around align-content-center">
+            <h1>Contactez-moi</h1>
+        </div>
+    </header>
+    <!-- CONTACT -->
+    <div class="container bg-light mt-5 pt-3 pb-3">
+        <h1 class="text-center mb-3">Une envie de me poser une question ou de me dire quelque chose de gentil ?</h1>
+        <h4 class="text-center mb-5">...Sinon passez votre chemin <i class="fas fa-smile-wink"></i></h4>
+        <form action="">
+            <div class="row">
+                <div class="col-12 col-md-4">
+                    <label for="prenom" class="visually-hidden">Prénom</label>
+                    <input type="text" class="form-control" id="prenom" placeholder="Prénom" aria-label="Prénom" required>
+                </div>
+
+                <div class="col-12 col-md-4 mt-2 mt-md-0">
+                    <label for="nomdefamille" class="visually-hidden">Nom de famille</label>
+                    <input type="text" class="form-control" id="nomdefamille" placeholder="Nom de famille" aria-label="Nom de famille" required>
+                </div>
+            
+                <div class="col-12 col-md-4 mt-2 mt-md-0">
+                    <label for="email" class="visually-hidden">Adresse e-mail</label>
+                    <input type="email" class="form-control" id="prenom" placeholder="Adresse e-mail" aria-label="Adresse e-mail" required>
+                </div>
+                <div class="input-group col-12 col-md-auto mb-2 mt-2">
+                    <label class="input-group-text" for="sujet">Sujet</label>
+                    <select class="form-select col-12 col-md-6" id="sujet" required>
+                      <option selected>Choisissez</option>
+                      <option value="1">Demande d'informations</option>
+                      <option value="2">Commande particulière</option>
+                      <option value="3">Des... Problèmes...</option>
+                      <option value="4">On est tellement heureux de tes petits plats <br/>qu'on veut t'offrir des caisses à couronnes sur TESO !</option>
+                    </select>
+                </div>
+                <div class="col-12">
+                    <textarea class="form-control" rows="5" aria-label="Votre message" placeholder="Écrivez votre message" required></textarea>
+                </div>
+                <div class="envoyer-message col-8 col-md-4 mt-2 mb-2 offset-2 offset-md-8">
+                    <button class="btn btn-dark col-12" type="submit">Envole toi petit message !</button>
+                </div>
+                
+            </div>
+            
+            </form>
+        </form>
+    </div>
+    <!-- FOOTER -->
+    <footer class="bd-footer p-3 p-md-5 mt-5 bg-light text-center text-sm-start">
+        <div class="container">
+            <ul class="bd-footer-links ps-0 mb-3 justify-content-center">
+                <li class="d-inline-block"><a href="#"><i class="fas fa-home"></i> La franchise</a></li>
+                <li class="d-inline-block ms-3"><a href="#"><i class="fab fa-twitter"></i> Twitter</a></li>
+                <li class="d-inline-block ms-3"><a href="#"><i class="fab fa-facebook"></i> Facebook</a></li>
+                <li class="d-inline-block ms-3"><a href="#"><i class="fab fa-instagram"></i> Instagram</a></li>
+            </ul>
+            <p class="mb-0">
+                Designed and built with all the patience I've got to use and try to understand <a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/" target="_blank">Bootstrap</a> classes who broke my "design" <i class="fas fa-poo"></i> ...<br>
+                With the help of <a href="https://www.youtube.com/watch?v=MZuThLuSutY" target="_blank">some metal music</a> to exteriorise the pain and the <a href="https://placekitten.com/" target="_blank"                   rel="noopener noreferrer">placekitten website</a> to put some cute pictures in my eco+ design !
+            </p>
+        </div>
+    </footer>
 </body>
 </html>

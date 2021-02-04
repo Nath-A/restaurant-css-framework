@@ -1,5 +1,5 @@
 # 01 - The Field : Restaurant-css-framework project "Au Joyeux Bordel de Nath"
-## Lien du projet (WIP)
+## Lien du projet
 https://nathalie-anneessens.github.io/restaurant-css-framework
 ## Mais keskesé ? 
 Pour "consolider" nos connaissances du framework css Bootstrap, nous  avons pour challenge de réaliser un site web pour un restaurant fictif qui se doit d'etre mobile first (le site web, pas le restaurant...)  

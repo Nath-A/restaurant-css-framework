@@ -31,13 +31,13 @@ Avec :
 - [x] Créer un fichier html de structure pour le contenu et les choses qui vont être copiées collées sur chaque page et ne rien comprendre aux 758 class de bootstrap :sleepy: :rage:
 - [x] Casser mon site en pensant avoir compris ce que faisait une class :  
 ![Bootstrap a cassé mon design](references/bootstrap-a-casse-mon-design.png)
-- [x] CTRL+Z 
+- [x] *facepalm* + [CTRL]+[Z] 
 - [x] Vérifier que le design global est cohérent
 - [x] Copier coller les éléments de la structure dans les bonnes pages
 - [x] Vérifier que tous les liens sont fonctionnels **et mettre les active sur le menu principal** 
 - [ ] Faire un peu de CSS pour rendre le design moins eco+  
 ![Gif pas le temps](https://media1.tenor.com/images/698ebb4747ec744b44c5712dc8f43636/tenor.gif?itemid=11322968)
-- [ ] Me servir la bière offerte par Hello Fresh cette semaine pour célébrer le fait d'avoir fini le projet !
+- [x] ~~Me servir la bière offerte par Hello Fresh cette semaine pour célébrer le fait d'avoir fini le projet !~~ Prendre un Algotra, cuisiner et aller me coucher tot !
 ## Processus "créatif"
 ### Wireframes
 ![Wireframes](references/wireframes.jpg)

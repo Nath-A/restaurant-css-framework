@@ -39,6 +39,19 @@ header h2
     font-size: 1.3em;
 } 
 
+header h3
+{
+    font-size: 1.3em;
+}
+
+@media (max-width: 575.98px)
+{ 
+    header h3
+    {
+        font-size: 1em;
+    }
+}
+
 header .btn a
 {
     text-decoration: none !important;

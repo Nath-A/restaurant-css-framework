@@ -30,7 +30,7 @@ Avec :
 - [x] Faire des wireframes et layouts papier
 - [x] Créer un fichier html de structure pour le contenu et les choses qui vont être copiées collées sur chaque page et ne rien comprendre aux 758 class de bootstrap :sleepy: :rage:
 - [x] Casser mon site en pensant avoir compris ce que faisait une class :  
-![Bootstrap a cassé mon design](references\bootstrap-a-casse-mon-design.png)
+![Bootstrap a cassé mon design](references/bootstrap-a-casse-mon-design.png)
 - [x] CTRL+Z 
 - [x] Vérifier que le design global est cohérent
 - [x] Copier coller les éléments de la structure dans les bonnes pages
